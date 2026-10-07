@@ -1,9 +1,10 @@
 {
-  "name": "English 2H Ultimate v2",
-  "short_name": "English2H",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#f5f7fb",
-  "theme_color": "#111827",
-  "lang": "uz"
+  "name":"English Master — Pure Focus",
+  "short_name":"English Master",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f4f7fb",
+  "theme_color":"#0b1220",
+  "lang":"uz",
+  "description":"Distraction-free English learning: morning deep work, evening retrieval, SRS, speaking and IELTS readiness."
 }
